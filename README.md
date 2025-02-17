@@ -43,7 +43,7 @@ If Java is missing, download it from one of the official sources:
 - [OpenJDK](https://jdk.java.net/)  
 - [Adoptium (Temurin JDK)](https://adoptium.net/) 
 
-### 3️. Run the Program  
+### 3. Run the Program  
 Compile and run the CLI:
 ```sh
 javac -cp "lib/gson-2.8.9.jar;src" -d bin src/main/Main.java
@@ -89,7 +89,7 @@ This project is open-source under the **MIT License**. Feel free to modify and c
 ## Contributing  
 ```sh
 # Fork the repository
-git clone https://github.com/R-Tharanka//ticket-management-s-cli.git
+git clone https://github.com/R-Tharanka/ticket-management-s-cli.git
 
 # Create a new branch
 git checkout -b feature-branch
