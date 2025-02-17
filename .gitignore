@@ -1,0 +1,19 @@
+# Ignore IDE and system-specific files
+.idea/
+.vscode/
+.DS_Store
+.project
+TicketManagementSystem.iml
+TicketManagementSystem.userlibraries
+
+# Ignore compiled code and build output
+bin/
+classes/
+*.class
+
+# Ignore logs and temporary files
+*.log
+*.eml
+
+# Ignore Gson JAR if using Maven (otherwise, keep it)
+lib/
